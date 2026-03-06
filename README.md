@@ -10,8 +10,8 @@ Convert your Notion notes into Anki flashcards automatically using a local AI �
 
 | Platform | Download |
 |----------|----------|
-| Windows  | [NotionToAnki-windows.exe](#) ← *Release link goes here* |
-| macOS    | [NotionToAnki-mac.app](#)     ← *Release link goes here* |
+| Windows  | [NotionToAnki-windows.exe](https://github.com/Tendeeznutz/Notion-to-Anki-Converter/releases/latest/download/NotionToAnki.exe) |
+| macOS    | [NotionToAnki-macos.zip](https://github.com/Tendeeznutz/Notion-to-Anki-Converter/releases/latest/download/NotionToAnki-macos.zip) |
 
 ---
 
@@ -97,7 +97,7 @@ A: Yes! In the app settings, type any model name from [ollama.com/library](https
 ## For Developers
 
 ```bash
-git clone https://github.com/yourusername/notion-to-anki
+git clone https://github.com/Tendeeznutz/Notion-to-Anki-Converter.git
 cd notion-to-anki
 pip install -r requirements.txt
 python src/main.py
